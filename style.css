@@ -1,0 +1,78 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(pink, white);
+    margin-bottom: 50px;
+}
+.top{
+    width: 100%;
+    
+    height: 3cm;
+    
+}
+.img{
+    margin-top: 0.2cm;
+    margin-left: 0.5cm;
+    height: 1cm;
+    
+}
+.ki{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    word-spacing: 0.7cm;
+}
+.bt{
+    margin-left: 14.5cm;
+    padding: 10px;
+    background-color: rgb(199, 56, 5);
+    width: 3.7cm;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+}
+.left{
+    
+    position: absolute;
+    height: 70%;
+    width: 50%;
+    margin-top: 6%;
+    
+    
+}
+.simp{
+    color: rgb(77, 6, 17);
+   font-size: 70px;
+    margin-left: 30%;
+    
+}
+.ea{
+    margin-left: 30%;
+}
+.bt1{
+    margin-left: 30%;
+    color: rgb(226, 30, 62);
+    
+
+}
+.bt2{
+    padding: 10px;
+    background-color: rgb(226, 30, 62);
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    
+}
+.right{
+    margin-left: 40%;
+    background-image: url(img/newVpayMobile.a3b6bb12.png);
+    background-size: cover;
+    height: 77%;
+    width: 46%;
+}
